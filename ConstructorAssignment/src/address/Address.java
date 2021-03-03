@@ -8,7 +8,6 @@ public class Address {
 	private String state;
 	private int zip;
 	public Address(int aid, String streetname, String city, String state,int zip) {
-		super();
 		this.aid = aid;
 		this.streetname = streetname;
 		this.city = city;
